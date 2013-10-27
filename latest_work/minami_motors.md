@@ -6,7 +6,7 @@ __Publicado:__ 30 de Setembro de 2013.
 
 __Disponível em:__ [www.minamimotors.com.br](http://www.minamimotors.com.br)
 
-![alt text](https://github.com/hmleal/Portfolio/blob/master/latest_work/img/minami_motors.png "Minami Motors")
+![Minami Motors](https://raw.github.com/hmleal/Portfolio/master/latest_work/img/minami_motors.png "Minami Motors")
 
 ## Tecnologias utilizadas
 
