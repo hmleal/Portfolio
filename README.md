@@ -10,3 +10,4 @@ Você pode me encontrar no [GitHub](http://www.github.com/hmleal) ou [Twitter](h
 ## Últimos trabalhos
 
 * [Minami Motors](https://github.com/hmleal/Portfolio/blob/master/latest_work/minami_motors.md)
+* [Zaveo Design Estratégico](https://github.com/hmleal/Portfolio/blob/master/latest_work/zaveo.md)
