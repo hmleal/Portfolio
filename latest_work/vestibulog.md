@@ -13,8 +13,13 @@ __Disponível em:__ [www.vestibulog.com.br](http://www.vestibulog.com.br)
 * Henrique Leal
 * Paulo Ricardo
 
+## Meu Papel
+
+Fiz parte do desenvolvimento back-end.
+
 ## Tecnologias utilizadas
 
 * HTML5
 * CSS3
 * jQuery
+* Django 1.5.5
