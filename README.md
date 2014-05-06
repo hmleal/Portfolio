@@ -12,6 +12,7 @@ Você pode me encontrar no [GitHub](http://www.github.com/hmleal) ou [Twitter](h
 ### 2014
 
 * [Mauro Marciano](https://github.com/hmleal/Portfolio/blob/master/latest_work/mauro_marciano.md)
+* [Beagle Ship](https://github.com/hmleal/Portfolio/blob/master/latest_work/beagle_ship.md)
 
 ### 2013
 
