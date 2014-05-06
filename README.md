@@ -9,6 +9,12 @@ Você pode me encontrar no [GitHub](http://www.github.com/hmleal) ou [Twitter](h
 
 ## Últimos trabalhos
 
+### 2014
+
+* [Mauro Marciano](https://github.com/hmleal/Portfolio/blob/master/latest_work/mauro_marciano.md)
+
+### 2013
+
 * [Minami Motors](https://github.com/hmleal/Portfolio/blob/master/latest_work/minami_motors.md)
 * [Zaveo Design Estratégico](https://github.com/hmleal/Portfolio/blob/master/latest_work/zaveo.md)
 * [Vestibulog](https://github.com/hmleal/Portfolio/blob/master/latest_work/vestibulog.md)

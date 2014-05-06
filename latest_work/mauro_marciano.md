@@ -15,7 +15,7 @@ Desenvolvi o back-end por completo e participei de ajudante no front-end.
 
 ## Regime de trabalho
 
-CLT (pela [Beagle Ship](http://www.beagleship.com.br/)
+CLT (pela [Beagle Ship](http://www.beagleship.com.br/))
 
 ## O que utilizei
 
