@@ -1,7 +1,6 @@
 # Mauro Marciano
 
-Novo site totalmente desenvolvido da Mauro Marciano - Distribuidora de
-Medicamentos.
+Novo site da Mauro Marciano - Distribuidora de Medicamentos.
 
 __Publicado:__ 05 de Maio de 2014
 
@@ -11,7 +10,7 @@ __Disponível em:__ [mauromarciano.com.br](http://www.mauromarciano.com.br/)
 
 ## Meu Papel
 
-Desenvolvi o back-end por completo e participei de ajudante no front-end.
+Back-end e coadjuvante no front-end.
 
 ## Regime de trabalho
 
@@ -33,7 +32,7 @@ __Back-End__
 
 * Python
 * Django 1.6.x
-* Deploy automático com o Fabric
+* Deploy automatizado com o Fabric
 * South para migração do banco de dados
 * Primeiro projeto rodando algumas Class Basead Views e Generic Basead Views do
 django.
