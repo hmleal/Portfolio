@@ -1,13 +1,14 @@
 # Henrique Leal Portfolio
+> Software developer at Globo.com
 
-Meu nome é Henrique Leal, também conhecido como hmleal.
-Sou desenvolvedor especialista em Python, Django e jQuery.
+Currently i work on [Globo.com](http://globo.com/) in searchengine team and i use tools like:
 
-Atualmente desenvolvo com Python/Django na [Turbosys](http://www.turbosys.com.br/) e também curso Sistemas de Informação na [Unifra](http://www.unifra.br)
+* Python
+* ELK (Elasticsearch, Logstash and Kibana)
 
-Você pode me encontrar no [GitHub](http://www.github.com/hmleal) ou [Twitter](http://www.twitter.com/hmleal).
+You can find me on [Github](http://www.github.com/hmleal) or [Twitter](http://www.twitter.com/hmleal)
 
-## Últimos trabalhos
+## Last works
 
 ### 2015
 
